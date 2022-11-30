@@ -1,0 +1,15 @@
+C:\Users\vladi\Desktop\GB\HW VSC\TheTask\bin\Debug\net6.0\TheTask.exe
+C:\Users\vladi\Desktop\GB\HW VSC\TheTask\bin\Debug\net6.0\TheTask.deps.json
+C:\Users\vladi\Desktop\GB\HW VSC\TheTask\bin\Debug\net6.0\TheTask.runtimeconfig.json
+C:\Users\vladi\Desktop\GB\HW VSC\TheTask\bin\Debug\net6.0\TheTask.dll
+C:\Users\vladi\Desktop\GB\HW VSC\TheTask\bin\Debug\net6.0\TheTask.pdb
+C:\Users\vladi\Desktop\GB\HW VSC\TheTask\obj\Debug\net6.0\TheTask.csproj.AssemblyReference.cache
+C:\Users\vladi\Desktop\GB\HW VSC\TheTask\obj\Debug\net6.0\TheTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\Desktop\GB\HW VSC\TheTask\obj\Debug\net6.0\TheTask.AssemblyInfoInputs.cache
+C:\Users\vladi\Desktop\GB\HW VSC\TheTask\obj\Debug\net6.0\TheTask.AssemblyInfo.cs
+C:\Users\vladi\Desktop\GB\HW VSC\TheTask\obj\Debug\net6.0\TheTask.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Desktop\GB\HW VSC\TheTask\obj\Debug\net6.0\TheTask.dll
+C:\Users\vladi\Desktop\GB\HW VSC\TheTask\obj\Debug\net6.0\refint\TheTask.dll
+C:\Users\vladi\Desktop\GB\HW VSC\TheTask\obj\Debug\net6.0\TheTask.pdb
+C:\Users\vladi\Desktop\GB\HW VSC\TheTask\obj\Debug\net6.0\TheTask.genruntimeconfig.cache
+C:\Users\vladi\Desktop\GB\HW VSC\TheTask\obj\Debug\net6.0\ref\TheTask.dll
